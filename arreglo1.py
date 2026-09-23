@@ -6,4 +6,4 @@ print(vector)
 print(len(vector))
 
 for i in range(len(vector)):
-    print(vector[i]*2)
+    print(vector[i]*2,  end = " ")
